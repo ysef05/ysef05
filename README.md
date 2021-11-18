@@ -1,8 +1,9 @@
 ### About ME 👋
 
 
-👨‍💻
- I use  
+
+ I use 👨‍💻
+ 
 <img src="https://img.shields.io/badge/Artix_Linux-10A0CC?style=for-the-badge&logo=artix-linux&logoColor=white"> and <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
 
 
