@@ -1,17 +1,9 @@
-### Hi there 👋
+### About ME 👋
 
 
-**YousefM8/YousefM8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👨‍💻 <img src=" https://camo.githubusercontent.com/c25307217abd3dad8debf88f849cd09517df2151216aaef22c51bf0b10b816f4/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d432532332d3333333333333f7374796c653d666c6174266c6f676f3d432d5368617270266c6f676f436f6c6f723d303035393943">
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ... Nothing i don't have any project in mind
-- 🌱 I’m currently learning ... School :) but hopefully will start learning cybersecurity
-- 👯 I’m looking to collaborate on ... anything have FiveM (QBUS, Standalone)
-- 🤔 I’m looking for help with ... Learnig اسلامية
-- 💬 Ask me about ... Just don't
-- 📫 How to reach me: ... Any Where but rayher in discord 
-- ⚡ Fun fact: ... I hate when people act like they know something but they dont know
-
-
-
+  
+  
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=YousefM8&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
