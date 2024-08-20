@@ -33,7 +33,7 @@
 ┌──┤ SOCIAL ├─────────▰▰▰
 │
 ├─◈ <a href="https://www.instagram.com/ysef05">Instagram</a>
-├─◈ <a href="https://discord.com">ysef05</a>
+├─◈ <a href="https://discord.com">discord: ysef05</a>
 │
 └───────────────────────────────▰▰▰
 </pre>
