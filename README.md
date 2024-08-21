@@ -27,7 +27,9 @@
 ├─＞ Al Asimah, Kuwait city
 ├─＞ have a passion for cybersecurity, Love to create viruses and ransomware to locally test them
 |    and make sure people are safe :3
-│─＞ I choose cybersecurity because I want to help stopping threats like viruses and ransomware that can harm people and businesses. This career lets me protect important data and keep the digital world safer.
+|
+│─＞ I choose cybersecurity because I want to help stopping threats like viruses and ransomware 
+|    that can harm people and businesses. This career lets me protect important data and keep the digital world safer.  
 └───────────────────────────────▰▰▰
 
 ┌──┤ SOCIAL ├─────────▰▰▰
