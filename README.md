@@ -38,4 +38,7 @@
 ├─◈ <a href="https://discord.com">discord: ysef05</a>
 │
 └───────────────────────────────▰▰▰
+
+Coded lab
+My favorite food is medium well New York Steak with mashpotatos for the side :D
 </pre>
